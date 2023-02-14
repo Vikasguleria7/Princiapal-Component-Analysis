@@ -1,1 +1,1 @@
-# Princiapal-Component-Analysis
+# Principal Component Analysis Using sklearn
